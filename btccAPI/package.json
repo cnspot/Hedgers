@@ -1,0 +1,52 @@
+{
+  "_args": [
+    [
+      ".",
+      ""
+    ]
+  ],
+  "_from": "lib/node_modules/btccAPI",
+  "_id": "btccAPI@0.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/btccAPI",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": null,
+    "raw": ".",
+    "rawSpec": ".",
+    "scope": null,
+    "spec": "/usr/lib/node_modules/btccAPI",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:lib/node_modules/btccAPI",
+  "_shasum": "1211d999762aef51605090e3f8533cc3f0257ab9",
+  "_shrinkwrap": null,
+  "_spec": ".",
+  "_where": "",
+  "author": "",
+  "dependencies": {
+    "underscore": "1.4.4"
+  },
+  "description": "BTCchina REST API wrapper",
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.7"
+  },
+  "keywords": [
+    "bitcoin",
+    "btc",
+    "btcchina",
+    "exchange"
+  ],
+  "license": "MIT",
+  "main": "btcchina.js",
+  "name": "btccAPI",
+  "optionalDependencies": {},
+  "readme": "#test\n",
+  "readmeFilename": "README.md",
+  "version": "0.0.1"
+}
